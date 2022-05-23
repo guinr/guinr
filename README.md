@@ -1,5 +1,9 @@
 ## Hi there, Guilherme (Digi) welcome to my profile! 😃
 
+I'm a frontend developer with experience in backend too.
+
+<img src="https://user-images.githubusercontent.com/1887299/169872639-4b6ceac0-f61c-49ee-a95c-02315e6caba4.png" width="200px">
+
 💻 I'm currently working at [Conta Azul](https://contaazul.com/)
 
 🎧 Vibing to [Still Don't Know My Name - Labirinth](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV?si=55fc4ea27fe74f32)
