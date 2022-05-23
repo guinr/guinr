@@ -1,4 +1,6 @@
-### Hi there 👋
+![guinr's github stats](https://github-readme-stats.vercel.app/api?username=guinr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinr)](https://github.com/guinr/github-readme-stats)
 
 <!--
 **guinr/guinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
