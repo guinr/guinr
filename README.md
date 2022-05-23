@@ -1,18 +1,12 @@
-![guinr's github stats](https://github-readme-stats.vercel.app/api?username=guinr)
+## Hi there, Guilherme (Digi) welcome to my profile! 😃
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinr)](https://github.com/guinr/github-readme-stats)
+💻 I'm currently working at [Conta Azul](https://contaazul.com/)
 
-<!--
-**guinr/guinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 Vibing to [Still Don't Know My Name - Labirinth](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV?si=55fc4ea27fe74f32)
 
-Here are some ideas to get you started:
+🎮 Playing Horizon Zero Dawn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Let's drink a coffee and talk about something =)
+
+![guinr's stats](https://github-readme-stats.vercel.app/api?username=guinr&count_private=true&show_icons=true&theme=vue-dark&custom_title=guinr%27s+stats+%3D%29)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinr&layout=compact&theme=vue-dark)](https://github.com/guinr/github-readme-stats)
