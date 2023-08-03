@@ -1,4 +1,4 @@
-## Hi there, Guilherme (Digi) welcome to my profile! 😃
+## Hi there, I'm Guilherme (Digi) welcome to my profile! 😃
 
 I'm a frontend developer with experience in backend too.
 
@@ -6,9 +6,9 @@ I'm a frontend developer with experience in backend too.
 
 💻 I'm currently working at [Conta Azul](https://contaazul.com/)
 
-🎧 Vibing to [Still Don't Know My Name - Labirinth](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV?si=55fc4ea27fe74f32)
+🎧 Vibing to [Electric Feel - MGMT](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt?si=e7f0ea9c83d840b0)
 
-🎮 Playing Horizon Zero Dawn
+🎮 Cyberpunk 2077
 
 ☕ Let's drink a coffee and talk about something =)
 
